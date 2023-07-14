@@ -1,0 +1,53 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.info{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: #D2DAE9;
+}
+
+#app{
+background-color: #FEF0D6;
+width: 500px;
+margin: 30px auto;
+border: solid 1px #ccc;
+padding: 20px;
+}
+
+#time{
+    text-align: center;
+    padding: 20px 0;
+}
+
+#time #value{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+.tareas{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#bAdd{
+    font-size: 15px;
+}
+
+.task{
+    padding-bottom: 15px;
+}
